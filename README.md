@@ -3,6 +3,12 @@
 <!-- HEADER BANNER. Optional: put an animated One Piece / AoT / Re:Zero GIF under it as assets/header.gif -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:F4C430&height=190&section=header&text=OM%20VYAS&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Return%20by%20Death.%20Ship%20by%20Dawn.&descAlignY=60&descSize=20" width="100%" alt="Om Vyas banner"/>
 
+<br/>
+
+<img src="assets/header.gif" width="100%" alt="One Piece Walking"/>
+
+<br/>
+
 <a href="https://github.com/DevWithOm">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=F4C430&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Om+Vyas+%E2%80%94+aka+DevWithOm+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Return+by+Death%3A+fail+the+round%2C+learn%2C+ship+again;B.Tech+CSE+(AI+%26+ML)+%40+MIT+AoE%2C+Pune;Building+intelligent%2C+real-world+AI%2FML+systems;Team+Algorithm+Busters+%7C+SIH+Team+Lead+%40+VAJRA-X21" alt="Typing SVG"/>
 </a>
