@@ -3,9 +3,7 @@
 <!-- HEADER BANNER. Optional: put an animated One Piece / AoT / Re:Zero GIF under it as assets/header.gif -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:F4C430&height=190&section=header&text=OM%20VYAS&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Return%20by%20Death.%20Ship%20by%20Dawn.&descAlignY=60&descSize=20" width="100%" alt="Om Vyas banner"/>
 
-<br/>
-
-<img src="assets/header.gif" width="100%" alt="One Piece Walking"/>
+<img src="assets/header.gif" height="200" alt="One Piece Walking"/>
 
 <br/>
 
