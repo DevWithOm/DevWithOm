@@ -261,8 +261,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevWithOm&theme=tokyonight" alt="GitHub stats"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevWithOm&theme=tokyonight" alt="Top languages"/>
+<img height="170" src="https://raw.githubusercontent.com/DevWithOm/DevWithOm/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="170" src="https://raw.githubusercontent.com/DevWithOm/DevWithOm/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages"/>
 
 <br/>
 
