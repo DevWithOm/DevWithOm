@@ -45,7 +45,7 @@
   "name": "Om Ram Vyas",
   "alias": "DevWithOm",
   "role": "B.Tech CSE (AI & ML) @ MIT Academy of Engineering, Pune",
-  "team": "Algorithm Busters",
+  "team": "The Excludeds",
   "sih_2026": "Team Lead, VAJRA-X21",
   "focus": [
     "Agentic AI & multi-agent systems",
