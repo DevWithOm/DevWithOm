@@ -49,7 +49,6 @@
   "sih_2026": "Team Lead, VAJRA-X21",
   "focus": [
     "Agentic AI & multi-agent systems",
-    "Geospatial / ocean / climate intelligence",
     "Responsible AI (bias detection, guardrails)",
     "Full-stack AI products that actually ship"
   ],
