@@ -227,8 +227,6 @@
 <img src="https://img.shields.io/badge/CII%20%26%20HP-Applied%20ML%20%26%20AI%20Foundations-0096D6?style=flat-square&logo=hp&logoColor=white" alt="CII and HP Applied ML and AI"/>
 <img src="https://img.shields.io/badge/Outskill-Generative%20AI%20Mastermind-7C3AED?style=flat-square" alt="Outskill Generative AI Mastermind"/>
 
-<sub>CII & HP certificate no. 23CII-FJ26-49699</sub>
-
 <br/>
 <hr/>
 <br/>
